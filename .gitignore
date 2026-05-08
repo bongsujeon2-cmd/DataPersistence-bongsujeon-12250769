@@ -1,0 +1,9 @@
+# Build output
+x64/
+Win32/
+*.user
+*.suo
+.vs/
+
+# Data files generated at runtime
+*.json
